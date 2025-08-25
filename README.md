@@ -1,6 +1,6 @@
 ## Hello, I'm Robert LaChausse! 
 
-I am a 21 year old student at University of Colorado Boulder, majoring in Computer Science and minoring in Creative Technology & Design!
+I am a 22 year old student at University of Colorado Boulder, majoring in Computer Science and minoring in Creative Technology & Design!
 
 - 🔭 My major project right now is: an air traffic control simulator using QT and C++.
 - ⚡ I'm an expert with: C++, Python, Bootstrap/CSS, and JS.
