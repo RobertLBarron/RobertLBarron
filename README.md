@@ -8,4 +8,5 @@ I am a 22 year old student at University of Colorado Boulder, majoring in Comput
 - 👯 I’m looking to collaborate on: Anything, I'd love to learn more and sharpen my skills.
 - 📫 How to reach me: Send me a message at Robert.LaChausse@gmail.com!
 - 😄 Pronouns: He/Him
+- 👌Expected graduation date: December 2025.
 - My work at my internship with VSP Vision from June 3rd - December 30th 2024 is not represented on this Github profile.
